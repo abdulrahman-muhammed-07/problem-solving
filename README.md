@@ -1,6 +1,6 @@
 # Problem Solving
 
-Algorithmic problem solving in multiple languages — PHP, Go, Java, JavaScript.
+Algorithmic problem solving in multiple languages — PHP, Go, Java, JavaScript, C++.
 
 Problems sourced from LeetCode, organized by topic.
 
@@ -13,7 +13,8 @@ problem-solving/
 ├── php/
 ├── go/
 ├── java/
-└── js/
+├── js/
+└── cpp/
     ├── arrays/
     ├── strings/
     ├── linked-lists/
@@ -24,43 +25,45 @@ problem-solving/
     └── math/
 ```
 
-Each solution file is named after the problem: `two-sum.php`, `valid-parentheses.go`, etc.
+Each solution file is named after the problem: `two-sum.php`, `valid-parentheses.go`, `two-sum.cpp`, etc.
+
+C++ solutions use `.cpp` extension and compile with: `g++ -std=c++17 -O2 solution.cpp -o solution`
 
 ---
 
 ## Progress
 
 ### Arrays
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Strings
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Linked Lists
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Trees
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Graphs
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Dynamic Programming
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Sorting & Searching
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ### Math
-| # | Problem | Difficulty | PHP | Go | Java | JS |
-|---|---------|------------|-----|----|------|----|
+| # | Problem | Difficulty | PHP | Go | Java | JS | C++ |
+|---|---------|------------|-----|----|------|----|-----|
 
 ---
 
